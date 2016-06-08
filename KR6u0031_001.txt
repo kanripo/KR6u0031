@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-31 05:55:40.159739
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 15:02
 #+TITLE: 要行捨身經
 #+PROPERTY: CBETA_ID T85n2895
 #+PROPERTY: ID KR6u0031
